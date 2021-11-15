@@ -3,12 +3,11 @@
 ([ссылка на специализацию](https://www.coursera.org/specializations/machine-learning-data-analysis)).
 
 
-Специализация состоит из 6 курсов. В настоящий момент я нахожусь в начале прохождения 2 курса Специализации __"Обучение на размеченных данных"__
-([ссылка](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)).
+Специализация состоит из 6 курсов. В настоящий момент я нахожусь в начале прохождения 2 курса Специализации
+([__"Обучение на размеченных данных"__](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)).
 
 
-Уже после завершения первого курса [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)
-я узнал много нового и познакомился с основами:
+Уже после завершения первого курса [__Математика и Python для анализа данных__](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) я узнал много нового и познакомился с основами:
 - линейной алгебры; 
 - высшей математики;
 - теории вероятностей;
