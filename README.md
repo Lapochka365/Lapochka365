@@ -3,7 +3,7 @@
 ([ссылка на специализацию](https://www.coursera.org/specializations/machine-learning-data-analysis)).
 
 
-Специализация состоит из 6 курсов. В настоящий момент я нахожусь в начале прохождения 2 курса Специализации
+Специализация состоит из 6 курсов. В настоящий момент я нахожусь в серединепрохождения 2 курса Специализации
 ([__"Обучение на размеченных данных"__](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)).
 
 
